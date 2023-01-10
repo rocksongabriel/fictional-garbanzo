@@ -16,3 +16,10 @@ async def create_user(user: UserBase):
     _id = uuid.uuid4()
     new_user = User(id=str(_id), **user.dict())
     return new_user
+
+
+@app.get("/users{id}", response_model=User)
+async def get_user(id: str):
+    for user in users:
+        if user["id"] == id:
+            return user
