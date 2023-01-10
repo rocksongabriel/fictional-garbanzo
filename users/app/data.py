@@ -1,0 +1,58 @@
+users = [
+    {
+        "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "active": True,
+    },
+    {
+        "id": "a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "email": "jane.doe@example.com",
+        "active": True,
+    },
+    {
+        "id": "a2eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "email": "bob.smith@example.com",
+        "active": False,
+    },
+    {
+        "id": "a3eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.johnson@example.com",
+        "active": True,
+    },
+    {
+        "id": "a4eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "Charlie",
+        "last_name": "Williams",
+        "email": "charlie.williams@example.com",
+        "active": False,
+    },
+    {
+        "id": "a5eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "David",
+        "last_name": "Jones",
+        "email": "david.jones@example.com",
+        "active": True,
+    },
+    {
+        "id": "a6eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "Eve",
+        "last_name": "Brown",
+        "email": "eve.brown@example.com",
+        "active": False,
+    },
+    {
+        "id": "a7eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+        "first_name": "Frank",
+        "last_name": "Miller",
+        "email": "frank.miller@example.com",
+        "active": True,
+    },
+]
